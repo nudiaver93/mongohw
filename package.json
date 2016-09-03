@@ -1,0 +1,29 @@
+{
+  "name": "week-18-mongo",
+  "version": "1.0.0",
+  "description": "Mongo Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nudiaver93/mongohw.git"
+  },
+  "author": "Navin Udiaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nudiaver93/mongohw/issues"
+  },
+  "homepage": "https://github.com/nudiaver93/mongohw/#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0",
+    "request": "^2.74.0"
+  }
+}
